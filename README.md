@@ -1,3 +1,4 @@
+#EN
 # GAMEMONITORING issue tracker
 
 Before submitting a bug please check the issue tracker [https://github.com/GAMEMONITORING/web-issues/issues] and see if your bug is already reported and open.
@@ -18,3 +19,23 @@ A good template to use would be as follows:
  Actual result:
  ```
  
+#RU
+# GAMEMONITORING issue трекер
+
+Перед отправкой ошибки пожалуйста проверьте трекер проблем [https://github.com/GAMEMONITORING/web-issues/issues] и посмотрите, создана ли уже ваша ошибка.
+
+Обратите внимание, что эта страница Github предназначена только для ошибок, обнаруженных на сайте GAMEMONITORING.
+
+## Как отправить ошибку
+
+Пожалуйста, дайте как можно больше информации о том, как вы столкнулись с этой ошибкой, так как это ускорит время, необходимое нам для воспроизведения, а затем устранения проблемы.
+
+Хорошим шаблоном сообщения:
+```
+URL-ссылка:
+Имя пользователя на GAMEMONITORING:
+Сообщение об ошибке/ошибке:
+Шаги для воспроизведения:
+Ожидаемый результат:
+Реальный результат:
+```
