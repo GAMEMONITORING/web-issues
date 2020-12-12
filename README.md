@@ -1,4 +1,4 @@
-#EN
+# EN
 # GAMEMONITORING issue tracker
 
 Before submitting a bug please check the issue tracker [https://github.com/GAMEMONITORING/web-issues/issues] and see if your bug is already reported and open.
@@ -19,8 +19,8 @@ A good template to use would be as follows:
  Actual result:
  ```
  
-#RU
-# GAMEMONITORING issue трекер
+# RU
+# GAMEMONITORING трекер ошибок
 
 Перед отправкой ошибки пожалуйста проверьте трекер проблем [https://github.com/GAMEMONITORING/web-issues/issues] и посмотрите, создана ли уже ваша ошибка.
 
